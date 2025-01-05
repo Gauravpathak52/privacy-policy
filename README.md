@@ -8,8 +8,8 @@ Privacy Policy for World Wide Weather Apps
     <title>Privacy Policy</title>
 </head>
 <body>
-    <h1>Privacy Policy for World Wide Weather Apps</h1>
-    <p>Effective Date: [25/11/2024]</p>
+    <h1>Privacy Policy for Weather Apps</h1>
+    <p>Effective Date: [05/01/2025]</p>
     
     <h2>1. Introduction</h2>
     <p>At Gaurav Pathak Developers, we respect your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, and handle your information when you use our app, World Wide Weather Apps.</p>
@@ -62,7 +62,7 @@ Privacy Policy for World Wide Weather Apps
     <h2>9. Contact Us</h2>
     <p>If you have any questions or concerns regarding this Privacy Policy, please contact us at:</p>
     <ul>
-        <li><strong>Email:</strong> privacy@saatirmind.com</li>
+        <li><strong>Email:</strong> gauravpathak639793@gmail.com</li>
         <li><strong>Developer Name:</strong> Gaurav Pathak Developers</li>
     </ul>
 
